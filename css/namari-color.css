@@ -167,14 +167,14 @@ body {
     font-size:62px;
     line-height:60px;
     font-weight:800;
-    color:#111;
+    color: white;
 }
 
 #banner h2 {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size:18px;
     font-weight:300;
-    color:#111;
+    color: white;
 }
 
 
@@ -300,14 +300,15 @@ h6 {
 
 #banner .button {
     border-color:#111;
+    background-color: #d2b356;
 }
 
 
 /* Button Hover Color */
 
 #banner .button:hover {
-    color:#d2b356;
-    border-color:#d2b356;
+    color: white;
+    border-color:#111;
 }
 
 
